@@ -1,0 +1,24 @@
+---
+extends:
+  - eslint:recommended
+  - plugin:flowtype/recommended
+  - plugin:react/recommended
+  - plugin:jsx-a11y/recommended
+  - plugin:lodash/recommended
+plugins: [ flowtype, react, babel, lodash, jsx-a11y ]
+parserOptions:
+  ecmaVersion: 8
+  sourceType: module
+  ecmaFeatures:
+    impliedStrict: true
+    experimentalObjectRestSpread: true
+env:
+  browser: true
+  node: true
+  commonjs: true
+  shared-node-browser: true
+  es6: true
+  mocha: true
+settings:
+  flowtype:
+    onlyFilesWithFlowAnnotation: true

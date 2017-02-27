@@ -1,0 +1,11 @@
+@import "~bootstrap/scss/bootstrap";
+
+// Font Awesome
+$fa-font-path: "~font-awesome/fonts" !default;
+
+@import "~font-awesome/scss/font-awesome";
+
+// Components
+
+@import "components/_App";
+@import "components/_Employees";

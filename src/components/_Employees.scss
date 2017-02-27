@@ -1,0 +1,19 @@
+.employees {
+  font-size: 12px;
+
+  &__form {
+    max-width: 200px;
+
+    input,
+    button {
+      display: block;
+      width: 100%;
+      margin-bottom: 10px;
+    }
+  }
+
+
+  i {
+    cursor: pointer;
+  }
+}

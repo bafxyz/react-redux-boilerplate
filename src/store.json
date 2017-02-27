@@ -1,0 +1,164 @@
+{
+  "employees": [
+    {
+      "employeeId": 0,
+      "firstName": "Vincent",
+      "lastName": "Bickmore",
+      "email": "deidre.wacquant@tanlax.com",
+      "phoneNumber": "(965) 702-3157",
+      "department": "IT"
+    },
+    {
+      "employeeId": 1,
+      "firstName": "Vincent",
+      "lastName": "Glover",
+      "email": "franchesca.pindar@truetam.com",
+      "phoneNumber": "(550) 851-5362",
+      "department": "Facilities"
+    },
+    {
+      "employeeId": 2,
+      "firstName": "Elizbeth",
+      "lastName": "Margaitis",
+      "email": "elizbeth.prichard@zimhattech.com",
+      "phoneNumber": "(972) 756-3499",
+      "department": "Sales"
+    },
+    {
+      "employeeId": 3,
+      "firstName": "Laci",
+      "lastName": "Pesarin",
+      "email": "rosalina.casteris@zaamtechno.com",
+      "phoneNumber": "(504) 266-4028",
+      "department": "Facilities"
+    },
+    {
+      "employeeId": 4,
+      "firstName": "Felicitas",
+      "lastName": "Sewall",
+      "email": "sheri.sheahan@funholding.com",
+      "phoneNumber": "(796) 725-8959",
+      "department": "IT"
+    },
+    {
+      "employeeId": 5,
+      "firstName": "Hilde",
+      "lastName": "Casteris",
+      "email": "marylouise.lubin@finjocane.com",
+      "phoneNumber": "(523) 743-6459",
+      "department": "IT"
+    },
+    {
+      "employeeId": 6,
+      "firstName": "Concetta",
+      "lastName": "Wacquant",
+      "email": "casandra.lipshutz@zonice.com",
+      "phoneNumber": "(471) 873-3484",
+      "department": "Facilities"
+    },
+    {
+      "employeeId": 7,
+      "firstName": "Harriet",
+      "lastName": "Bator",
+      "email": "georgetta.sheahan@keyphase.com",
+      "phoneNumber": "(578) 637-3761",
+      "department": "Facilities"
+    },
+    {
+      "employeeId": 8,
+      "firstName": "Harriet",
+      "lastName": "Casteris",
+      "email": "bessie.sewall@golden-lane.com",
+      "phoneNumber": "(247) 527-5839",
+      "department": "Facilities"
+    },
+    {
+      "employeeId": 9,
+      "firstName": "Sandee",
+      "lastName": "Neilson",
+      "email": "minnie.schleifer@zooelectrics.com",
+      "phoneNumber": "(218) 270-4214",
+      "department": "Facilities"
+    },
+    {
+      "employeeId": 10,
+      "firstName": "Sheri",
+      "lastName": "Casteris",
+      "email": "bessie.vittadini@aptrax.com",
+      "phoneNumber": "(869) 137-4563",
+      "department": "Facilities"
+    },
+    {
+      "employeeId": 11,
+      "firstName": "Harriet",
+      "lastName": "Lubin",
+      "email": "hilde.gabor@ranlax.com",
+      "phoneNumber": "(971) 272-6987",
+      "department": "Facilities"
+    },
+    {
+      "employeeId": 12,
+      "firstName": "Vincent",
+      "lastName": "Pindar",
+      "email": "vincent.landenna@waredex.com",
+      "phoneNumber": "(117) 884-2046",
+      "department": "Sales"
+    },
+    {
+      "employeeId": 13,
+      "firstName": "Casandra",
+      "lastName": "Philips",
+      "email": "valda.vetrovs@j-find.com",
+      "phoneNumber": "(960) 752-1179",
+      "department": "Sales"
+    },
+    {
+      "employeeId": 14,
+      "firstName": "Marcela",
+      "lastName": "Margaitis",
+      "email": "denice.chiogna@zoozooplus.com",
+      "phoneNumber": "(300) 683-5423",
+      "department": "IT"
+    },
+    {
+      "employeeId": 15,
+      "firstName": "Marcela",
+      "lastName": "Pieraccini",
+      "email": "deidre.bhide@silvercode.com",
+      "phoneNumber": "(860) 854-4511",
+      "department": "Sales"
+    },
+    {
+      "employeeId": 16,
+      "firstName": "Brittaney",
+      "lastName": "St martin",
+      "email": "elizbeth.landenna@tonruntone.com",
+      "phoneNumber": "(620) 352-3071",
+      "department": "IT"
+    },
+    {
+      "employeeId": 17,
+      "firstName": "Earline",
+      "lastName": "Litwin",
+      "email": "yuko.vittadini@aptrax.com",
+      "phoneNumber": "(425) 551-5765",
+      "department": "IT"
+    },
+    {
+      "employeeId": 18,
+      "firstName": "Ona",
+      "lastName": "Schickele",
+      "email": "deidre.gabor@keyphase.com",
+      "phoneNumber": "(129) 367-8215",
+      "department": "Sales"
+    },
+    {
+      "employeeId": 19,
+      "firstName": "Georgetta",
+      "lastName": "Lubin",
+      "email": "casandra.wacquant@bamcon.com",
+      "phoneNumber": "(296) 622-6420",
+      "department": "Sales"
+    }
+  ]
+}
